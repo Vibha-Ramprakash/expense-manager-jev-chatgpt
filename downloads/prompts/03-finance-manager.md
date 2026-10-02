@@ -1,0 +1,5 @@
+# Build Finance Manager
+
+Copy this into the indicated step:
+
+Use the /Sites plugin to build and privately publish my Finance Manager from the classified expense data. Include five connected tabs: Expense X-Ray, Team spending, Subscriptions, Forecast, and Ask Finance Manager. Store each signed-in user's saved board separately. Show month and employee filters, possible duplicate groups, personal charges, recurring subscriptions, dated usage evidence, cancellation-email drafts and a twelve-month forecast with editable assumptions and a before/after cancellation scenario. Use the attached Forecast skill. Show transaction-level evidence behind every insight. Never send emails or cancel a subscription automatically. Keep API keys server-safe and out of persistence. Label synthetic sample data, model estimates, incomplete classifications and hypothetical savings. Include the exact demo question: Why did my software spending go up in August? Compare August 2026 against July 2026 and show each vendor's contribution, linked transaction IDs, and what the statements cannot establish. Provide a reliable preview and retain the same saved board for the ChatGPT plugin.

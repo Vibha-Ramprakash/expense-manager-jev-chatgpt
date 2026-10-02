@@ -1,0 +1,5 @@
+# Connect Jev
+
+Copy this into the indicated step:
+
+Build a private Finance Manager with an Expense X-Ray tab. Use TypeSafe direct, model jev-latest, following the current official TypeSafe System One API documentation. Ask me to enter my API key through a masked field; never put it in chat, source, logs, exports or persistent browser storage. Keep it in tab memory and send it only to a same-origin server endpoint which calls TypeSafe. First test 20 rows, then let me explicitly start the full run. Use real provider responses only: show elapsed classification time, number of returned decisions, confidence and input-token usage. Show provider-reported cost when present; otherwise label cost as an estimate using the documented rate. Export a receipt with scope, model, rate, token usage, elapsed time and errors. Never invent a successful result, accuracy, timer or cost. Preserve incomplete results on failure and distinguish a test from the full benchmark. Build the app with a cream background, berry accents and readable tables.
